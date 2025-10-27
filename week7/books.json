@@ -1,0 +1,14 @@
+[
+{
+"title": "Clean Code",
+"author": "Robert C. Martin",
+"price": 35.99,
+"availability": "in stock"
+},
+{
+"title": "You Don’t Know JS Yet",
+"author": "Kyle Simpson",
+"price": 30.00,
+"availability": "out of stock"
+}
+]
